@@ -2,6 +2,9 @@
 
 # Bitácora : Enrichment.ipynb
 
+https://raw.githubusercontent.com/Bioinformatica2020/Semana10/master/Enrichment.ipynb
+
+
 
 ### Resultado de un análisis de enriquecimiento, en amarillo términos estadísticamente significativos
 
